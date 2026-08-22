@@ -1,3 +1,4 @@
+**End-to-end Power BI dashboard analyzing global superstore sales, profitability, and regional performance**
 # 📊 Global Superstore — Power BI Dashboard
 
 > A comprehensive, multi-page Power BI dashboard that delivers actionable insights into sales performance, customer segmentation, product profitability, and regional trends across the Global Superstore dataset.
